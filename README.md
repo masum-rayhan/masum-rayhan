@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Masum Rayhan.
-- 👀 I’m I am passionate about web app developing, diversity and Machine Learning.
+- 👀 I’m passionate about web app developing, diversity and Machine Learning.
 - 🌱 I’m currently working on ERP modules.
 - 💞️ I’m outgoing, dedicated, and open-minded.
 - 📫 Please mail me at masumrayhancse@gmail.com
